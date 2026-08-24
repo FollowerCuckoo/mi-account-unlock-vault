@@ -36,4 +36,4 @@ The release provided here is scanned before it's published.
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.     
+> Provided for educational and utility purposes only. Use at your own discretion.      
